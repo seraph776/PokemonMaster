@@ -37,11 +37,11 @@ In this project we’ll make several classes that interact with each other so yo
 
 ## ⚙️ Requires
 
-    - `Python 3.0 +`
+- `Python 3.0 +`
 
 ### 📚 Libraries
 
-    - `random`
+- `random`
 
 ## 🤝 Contribute
 
